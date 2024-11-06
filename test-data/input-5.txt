@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores where one always fails
+GT4500,10,1,1,0
+TORPEDO,SINGLE # should not be able to fire
+TORPEDO,SINGLE  # should fire from second store
